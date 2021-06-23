@@ -1,0 +1,47 @@
+[
+    {
+        "truck_type": "Type_01",
+        "truck_floor_area": 5.28,
+        "floor_area_uom": "m2",
+        "truck_max_volume": 10.032,
+        "volume_uom": "m3",
+        "full_truck_load": 1,
+        "ftl_uom": "ton"
+    },
+    {
+        "truck_type": "Type_02",
+        "truck_floor_area": 8.6,
+        "floor_area_uom": "m2",
+        "truck_max_volume": 20.64,
+        "volume_uom": "m3",
+        "full_truck_load": 2,
+        "ftl_uom": "ton"
+    },
+    {
+        "truck_type": "Type_03",
+        "truck_floor_area": 22.2,
+        "floor_area_uom": "m2",
+        "truck_max_volume": 48.84,
+        "volume_uom": "m3",
+        "full_truck_load": 4,
+        "ftl_uom": "ton"
+    },
+    {
+        "truck_type": "Type_04",
+        "truck_floor_area": 17.625,
+        "floor_area_uom": "m2",
+        "truck_max_volume": 41.595,
+        "volume_uom": "m3",
+        "full_truck_load": 5,
+        "ftl_uom": "ton"
+    },
+    {
+        "truck_type": "Type_05",
+        "truck_floor_area": 18.24,
+        "floor_area_uom": "m2",
+        "truck_max_volume": 41.952,
+        "volume_uom": "m3",
+        "full_truck_load": 10,
+        "ftl_uom": "ton"
+    }
+]

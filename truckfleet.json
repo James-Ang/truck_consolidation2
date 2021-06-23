@@ -1,0 +1,1352 @@
+[
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "No"
+    },
+    {
+        "date": "19-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "No"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "No"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "No"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "No"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "No"
+    },
+    {
+        "date": "20-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "No"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "No"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "No"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "21-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "No"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "22-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "No"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "No"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "23-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_3",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "No"
+    },
+    {
+        "date": "26-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "No"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "No"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "No"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "No"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "No"
+    },
+    {
+        "date": "27-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "No"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "No"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "No"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "28-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "No"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "29-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID1",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_01",
+        "driver": "Driver_1",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID2",
+        "truck_type": "Type_01",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_02",
+        "driver": "Driver_2",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID3",
+        "truck_type": "Type_01",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_03",
+        "driver": "Driver_3",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID4",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_04",
+        "driver": "Driver_4",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID5",
+        "truck_type": "Type_02",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_05",
+        "driver": "Driver_5",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID6",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_06",
+        "driver": "Driver_6",
+        "availability": "No"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID7",
+        "truck_type": "Type_02",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_07",
+        "driver": "Driver_7",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID8",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_08",
+        "driver": "Driver_8",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID9",
+        "truck_type": "Type_03",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_09",
+        "driver": "Driver_9",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID10",
+        "truck_type": "Type_03",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_10",
+        "driver": "Driver_10",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID11",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_11",
+        "driver": "Driver_11",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID12",
+        "truck_type": "Type_04",
+        "logistic_company": "Lestari",
+        "num_plate": "Plate_12",
+        "driver": "Driver_12",
+        "availability": "No"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID13",
+        "truck_type": "Type_04",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_13",
+        "driver": "Driver_13",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID14",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_14",
+        "driver": "Driver_14",
+        "availability": "Yes"
+    },
+    {
+        "date": "30-4-2021",
+        "truck_code": "Truck_ID15",
+        "truck_type": "Type_05",
+        "logistic_company": "Soon Logistics",
+        "num_plate": "Plate_15",
+        "driver": "Driver_15",
+        "availability": "Yes"
+    }
+]

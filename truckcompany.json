@@ -1,0 +1,14 @@
+[
+    {
+        "logistic_company": "Lestari",
+        "logistic_company_city": "Kuala Lumpur",
+        "logistic_company_zipcode": 68100,
+        "logistic_company_address": "Addr_1"
+    },
+    {
+        "logistic_company": "Soon Logistics",
+        "logistic_company_city": "Seremban",
+        "logistic_company_zipcode": 70400,
+        "logistic_company_address": "Addr_2"
+    }
+]

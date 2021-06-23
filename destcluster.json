@@ -1,0 +1,362 @@
+[
+    {
+        "destination_code": "Dest_ID1",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75460,
+        "destination_address": "Address_1",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID2",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75620,
+        "destination_address": "Address_2",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID3",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75050,
+        "destination_address": "Address_3",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID4",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75604,
+        "destination_address": "Address_4",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID5",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75450,
+        "destination_address": "Address_5",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID6",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75586,
+        "destination_address": "Address_6",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID7",
+        "destination_city": "Malacca North",
+        "destination_zip_code": 75350,
+        "destination_address": "Address_7",
+        "destination_cluster": "Cluster 1",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID8",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75500,
+        "destination_address": "Address_8",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID9",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75502,
+        "destination_address": "Address_9",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID10",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75503,
+        "destination_address": "Address_10",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID11",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75504,
+        "destination_address": "Address_11",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID12",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75505,
+        "destination_address": "Address_12",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID13",
+        "destination_city": "Malacca Central",
+        "destination_zip_code": 75508,
+        "destination_address": "Address_13",
+        "destination_cluster": "Cluster 2",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID14",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75510,
+        "destination_address": "Address_14",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID15",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75512,
+        "destination_address": "Address_15",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID16",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75514,
+        "destination_address": "Address_16",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID17",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75516,
+        "destination_address": "Address_17",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID18",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75517,
+        "destination_address": "Address_18",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID19",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75518,
+        "destination_address": "Address_19",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID20",
+        "destination_city": "Malacca East",
+        "destination_zip_code": 75532,
+        "destination_address": "Address_20",
+        "destination_cluster": "Cluster 3",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID21",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80500,
+        "destination_address": "Address_21",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID22",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80506,
+        "destination_address": "Address_22",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID23",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80508,
+        "destination_address": "Address_23",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID24",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80516,
+        "destination_address": "Address_24",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID25",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80534,
+        "destination_address": "Address_25",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID26",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80536,
+        "destination_address": "Address_26",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID27",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80542,
+        "destination_address": "Address_27",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID28",
+        "destination_city": "Johor Bharu North",
+        "destination_zip_code": 80546,
+        "destination_address": "Address_28",
+        "destination_cluster": "Cluster 4",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID29",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80558,
+        "destination_address": "Address_29",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID30",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80560,
+        "destination_address": "Address_30",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID31",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80564,
+        "destination_address": "Address_31",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID32",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80568,
+        "destination_address": "Address_32",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID33",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80578,
+        "destination_address": "Address_33",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID34",
+        "destination_city": "Johor Bharu South",
+        "destination_zip_code": 80584,
+        "destination_address": "Address_34",
+        "destination_cluster": "Cluster 5",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID35",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80590,
+        "destination_address": "Address_35",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID36",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80592,
+        "destination_address": "Address_36",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID37",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80594,
+        "destination_address": "Address_37",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID38",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80596,
+        "destination_address": "Address_38",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID39",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80600,
+        "destination_address": "Address_39",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    },
+    {
+        "destination_code": "Dest_ID40",
+        "destination_city": "Johor Bharu West",
+        "destination_zip_code": 80604,
+        "destination_address": "Address_40",
+        "destination_cluster": "Cluster 6",
+        "unloading_time": 30,
+        "unloading_uom": "min"
+    }
+]

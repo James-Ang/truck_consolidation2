@@ -1,0 +1,18 @@
+[
+    {
+        "supplier": "Pfizer",
+        "supplier_city": "Kuala Lumpur",
+        "supplier_zipcode": 68100,
+        "supplier_address": "Addr_1",
+        "loading_time": 60,
+        "loading_uom": "min"
+    },
+    {
+        "supplier": "Sanofi",
+        "supplier_city": "Seremban",
+        "supplier_zipcode": 70400,
+        "supplier_address": "Addr_2",
+        "loading_time": 60,
+        "loading_uom": "min"
+    }
+]

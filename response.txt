@@ -1,0 +1,6 @@
+response = requests.get("https://office.smarttradzt.com:8001/buy-shopping-service/sales-quotation/202002210000088", headers=headers)
+
+response = requests.get("https://office.smarttradzt.com:8001/buy-ecommerce-service/productListPrice/202004270000203", headers=headers)
+
+
+response = requests.get("https://office.smarttradzt.com:8001/buy-shopping-service/extapi/payment-transaction/30fcf608-2303-49e4-8042-388681b29181", headers=headers)

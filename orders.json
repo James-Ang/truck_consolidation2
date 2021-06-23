@@ -1,0 +1,194 @@
+[
+    {
+        "order_id": "Order_01",
+        "order_date": "12-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID21",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_02",
+        "order_date": "12-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID21",
+        "sku_code": "A2_20",
+        "sku_order_quantity": 250
+    },
+    {
+        "order_id": "Order_03",
+        "order_date": "12-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 230
+    },
+    {
+        "order_id": "Order_04",
+        "order_date": "13-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "B1_100",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_05",
+        "order_date": "16-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID23",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_06",
+        "order_date": "16-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID24",
+        "sku_code": "A2_20",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_07",
+        "order_date": "16-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID24",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 160
+    },
+    {
+        "order_id": "Order_08",
+        "order_date": "17-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID25",
+        "sku_code": "B1_100",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_09",
+        "order_date": "17-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID27",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_10",
+        "order_date": "17-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID27",
+        "sku_code": "A2_20",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_11",
+        "order_date": "19-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "A2_50",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_12",
+        "order_date": "19-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "A2_80",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_13",
+        "order_date": "21-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_14",
+        "order_date": "21-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A2_20",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_15",
+        "order_date": "21-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_16",
+        "order_date": "21-3-2021",
+        "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "B1_100",
+        "sku_order_quantity": 50
+    },
+    {
+        "order_id": "Order_17",
+        "order_date": "23-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A2_50",
+        "sku_order_quantity": 230
+    },
+    {
+        "order_id": "Order_18",
+        "order_date": "23-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A2_80",
+        "sku_order_quantity": 350
+    },
+    {
+        "order_id": "Order_19",
+        "order_date": "24-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 250
+    },
+    {
+        "order_id": "Order_20",
+        "order_date": "28-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID29",
+        "sku_code": "B1_100",
+        "sku_order_quantity": 300
+    },
+    {
+        "order_id": "Order_21",
+        "order_date": "28-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID21",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_22",
+        "order_date": "28-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID21",
+        "sku_code": "A2_20",
+        "sku_order_quantity": 100
+    },
+    {
+        "order_id": "Order_23",
+        "order_date": "29-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "A1_10",
+        "sku_order_quantity": 150
+    },
+    {
+        "order_id": "Order_24",
+        "order_date": "29-3-2021",
+        "requested_delivery_week_window": "26-04-2021 - 02-05-2021",
+        "destination_code": "Dest_ID22",
+        "sku_code": "B1_100",
+        "sku_order_quantity": 100
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "packaging_code": "B001",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 810,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 8910,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 2.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B002",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 625,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 10000,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 3.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B003",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 875,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 9625,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 3.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B004",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 600,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 12000,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 4.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B005",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 900,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 18000,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 7.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B006",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 1225,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 24500,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 8.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B007",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 1400,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 28000,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 9.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B008",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 330,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 10560,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 3.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B009",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 696,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 21576,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 8.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "B010",
+        "packaging_type": "BoxEcomm",
+        "packaging_basearea": 588,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 21168,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 8.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "UPS01",
+        "packaging_type": "UPS",
+        "packaging_basearea": 1428,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 38556,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 10.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "UPS02",
+        "packaging_type": "UPS",
+        "packaging_basearea": 2250,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 76500,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 25.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL01",
+        "packaging_type": "DHL",
+        "packaging_basearea": 612,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 6120,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 1.5,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL02",
+        "packaging_type": "DHL",
+        "packaging_basearea": 1088,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 10880,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 3.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL03",
+        "packaging_type": "DHL",
+        "packaging_basearea": 1088,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 19584,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 7.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL04",
+        "packaging_type": "DHL",
+        "packaging_basearea": 1088,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 36992,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 12.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL05",
+        "packaging_type": "DHL",
+        "packaging_basearea": 1512,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 55944,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 18.0,
+        "weight_uom": "kg"
+    },
+    {
+        "packaging_code": "DHL06",
+        "packaging_type": "DHL",
+        "packaging_basearea": 1920,
+        "basearea_uom": "cm2",
+        "packaging_capacity_by_volume": 74880,
+        "volume_uom": "cm3",
+        "packaging_weight_limit": 25.0,
+        "weight_uom": "kg"
+    }
+]
